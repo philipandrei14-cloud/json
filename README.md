@@ -1,1 +1,4 @@
-# json
+{
+    "admin": "admin123",
+    "teacher1": "pass123"
+}
